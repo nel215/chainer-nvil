@@ -15,3 +15,7 @@ $ python train.py
 ```
 $ python draw.py
 ```
+
+# Reference
+
+- [Neural Variational Inference and Learning in Belief Networks, Andriy Mnih, Karol Gregor](https://arxiv.org/abs/1402.0030)
